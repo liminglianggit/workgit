@@ -1,0 +1,2 @@
+{"car":{"alias":"捷达","engine_no":"075983","hisInsurances":[{"comDes":"中华联合财产保险公司北京分公司","insuranceId":"0216110106000332004617","insuredEndDate":"2017-07-10","insuredStartDate":"2016-07-11","isComm":"0"}],"license_type":"02","modeCode":"FV7160CiF E3","model":"捷达FV7160CiF E3","owner":{"name":"郭岩"},"plate_no":"京J07578","register_date":"2005-07-07","seats":"5","vin":"LFV2A11G553069028"},"error":0}
+车损

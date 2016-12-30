@@ -1,0 +1,44 @@
+{"car":{"plate_no":"京QN0W53"}}
+{"error":0,"msg":"成功", "car":{"plate_no":"京QN0W53","use_character":"110","model":"雪佛兰SGM6470TAXD多用途乘用车","vin":"LSGLP83X3EF223156","engine_no":"141680891","owner":{"name":"吕志强","id_no":"110222195911253314"},"register_date":"2014-10-20","purchase_price":"204900.00","seats":"7","license_type":"02","displacement":"2.384","kind_code":"K","ownership_code":0,"hisInsurances": [ {"applyInsurance": { "chesun": { "baoe":"175394.40","buji": "1"},"boli": { "baoe":"国产玻璃"},"sanfang": { "baoe":"175394.40"},"siji": { "baoe":"10000.00","buji": "1"},"daoqiang": { "baoe":"175394.40","buji": "1"},"chengke": { "unit":"10000","buji": "1"},"sanzhe": { "baoe":"1000000.00","buji": "1"}},"comDes":"利宝保险有限公司","maker":"libao.lua","insured":{"name":"吕志强","id_no":"110222195911253314"},"insured_person":{"name":"吕志强","id_no":"110222195911253314"},"isComm":"1","insuranceId":"8105021100160010404000","insuredStartDate":"2016-10-20","insuredEndDate":"2017-10-19","price":"3661.87"},{"comDes":"利宝保险有限公司","maker":"libao.lua","insured":{"name":"吕志强","id_no":"110222195911253314"},"insured_person":{"name":"吕志强","id_no":"110222195911253314"},"isComm":"0","insuranceId":"8105081100160023348000","insuredStartDate":"2016-10-20","insuredEndDate":"2017-10-19"}] }}
+执行本次任务所花费时间为：11秒！
+
+所有任务执行完毕。
+执行时间为：11秒
+执行任务总个数：1
+成功任务个数：1
+失败任务个数：0
+执行任务的平均时间为：11秒
+执行任务成功率为：1
+{"car":{"plate_no":"京QJ97V6"}}
+{"error":0,"msg":"成功", "car":{"plate_no":"京QJ97V6","use_character":"110","model":"奥迪FV7183TFCVT轿车","vin":"LFV3A28E063004314","engine_no":"021665","owner":{"name":"李东辉","id_no":"431225198404020020"},"register_date":"2006-05-17","purchase_price":"243400.00","seats":"5","license_type":"02","displacement":"1.781","kind_code":"K","ownership_code":0,"hisInsurances": [ {"applyInsurance": { "chesun": { "baoe":"60850.00","buji": "1"},"sanzhe": { "baoe":"200000.00","buji": "1"}},"comDes":"利宝保险有限公司","maker":"libao.lua","insured":{"name":"王露","id_no":"431225198404020020"},"insured_person":{"name":"王露","id_no":"431225198404020020"},"isComm":"1","insuranceId":"8105021100160009871000","insuredStartDate":"2016-10-25","insuredEndDate":"2017-10-24","price":"4194.82"}] }}
+执行本次任务所花费时间为：10秒！
+
+所有任务执行完毕。
+执行时间为：10秒
+执行任务总个数：1
+成功任务个数：1
+失败任务个数：0
+执行任务的平均时间为：10秒
+执行任务成功率为：1
+{"car":{"plate_no":"京QN0W53"}}
+{"error":-3,"msg":"未能查询到该车的投保单号！"}
+执行本次任务所花费时间为：20秒！
+
+所有任务执行完毕。
+执行时间为：20秒
+执行任务总个数：1
+成功任务个数：0
+失败任务个数：1
+执行任务的平均时间为：20秒
+执行任务成功率为：0
+{"car":{"plate_no":"京QN0W53"}}
+{"error":0,"msg":"成功", "car":{"plate_no":"京QN0W53","use_character":"110","model":"雪佛兰SGM6470TAXD多用途乘用车","vin":"LSGLP83X3EF223156","engine_no":"141680891","owner":{"name":"吕志强","id_no":"111111111111111111"},"register_date":"2014-10-20","purchase_price":"204900.00","seats":"7","license_type":"02","displacement":"2.384","kind_code":"K","ownership_code":0,"hisInsurances": [ {"applyInsurance": { "chesun": { "baoe":"172935.60","buji": "1"},"siji": { "baoe":"10000.00","buji": "1"},"daoqiang": { "baoe":"172935.60","buji": "1"},"chengke": { "unit":"10000","buji": "1"},"sanzhe": { "baoe":"500000.00","buji": "1"}},"comDes":"利宝保险有限公司","maker":"libao.lua","insured":{"name":"吕志强","id_no":"111111111111111111"},"insured_person":{"name":"吕志强","id_no":"111111111111111111"},"isComm":"1","insuredStartDate":"2016-12-21","insuredEndDate":"2017-12-20","price":"3183.10"}] }}
+执行本次任务所花费时间为：7秒！
+
+所有任务执行完毕。
+执行时间为：7秒
+执行任务总个数：1
+成功任务个数：1
+失败任务个数：0
+执行任务的平均时间为：7秒
+执行任务成功率为：1
